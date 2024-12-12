@@ -12,15 +12,15 @@ This project leverages the powerful XGBoost algorithm to build and evaluate pred
 ## Visualizations
 - **Actual vs. Prediction**: A comprehensive scatter plot showcasing the direct comparison between actual and predicted values, offering insights into the model's accuracy and precision.
 
-  ![Actual vs Prediction](actual_vs_prediction.png)
+  ![Actual vs Prediction](U.S.%20Major%20Soccer%20League%20Analysis/actual_vs_prediction.png)
 
 - **Prediction Errors Distribution**: A detailed histogram visualizing the spread of prediction errors, helping to evaluate model consistency and pinpoint areas for improvement.
 
-  ![Prediction Errors Distribution](prediction_errors_distribution.png)
+  ![Prediction Errors Distribution](U.S.%20Major%20Soccer%20League%20Analysis/prediction_errors_distribution.png)
 
 - **Errors vs Actual Values**: A revealing scatter plot that maps prediction errors against actual values to detect any systematic trends or anomalies in the model's predictions.
 
-  ![Errors vs Actual Values](errors_vs_actual_values.png)
+  ![Errors vs Actual Values](U.S.%20Major%20Soccer%20League%20Analysis/errors_vs_actual_values.png)
 
 ## Requirements
 - Python (3.12.X)
