@@ -1,4 +1,4 @@
-# Project Title: Prediction Analysis and Visualization
+# Predicting MLS Soccer Players' Salaries Using XGBoost
 
 ## Project Description
 This project leverages the powerful XGBoost algorithm to build and evaluate prediction models using real-world data. The focus is on visualizing the relationship between actual and predicted values, understanding error distributions, and uncovering patterns to improve model performance. Designed for both beginners and experts, this project offers valuable insights into practical applications of machine learning.
